@@ -9,4 +9,4 @@ files are turned into graphs with the MATLAB script perc_processing.m.
 For a specified value of edge-density, a network structure file and can be used to produce a network
 image with a circular layout, ordered by node sensitivity.
 
-The script gene_perc_processing.m is used to produce the output graphs for the ENCODE-project-based network.
+Algorithm.pdf contains information about the algorithm used in EvoNets.cpp.
