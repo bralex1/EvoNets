@@ -10,3 +10,8 @@ For a specified value of edge-density, a network structure file and can be used 
 image with a circular layout, ordered by node sensitivity.
 
 Algorithm.pdf contains information about the algorithm used in EvoNets.cpp.
+
+The following versions were used for the relevant files:
+* C++14
+* Python 3.7
+* Matlab 2017a
